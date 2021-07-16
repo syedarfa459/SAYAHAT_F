@@ -142,7 +142,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'sayahatpk@gmail.com'
-EMAIL_HOST_PASSWORD = 'fuwrwhhlkewgfjsv'
+EMAIL_HOST_PASSWORD = '**************'
 # DEFAULT_FROM_EMAIL = 'arfashahji@gmail.com'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
