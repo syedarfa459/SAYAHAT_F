@@ -1,0 +1,48 @@
+Abbottabad:
+	desc:
+		Abbottabad District is a district of the Pakistani province of Khyber Pakhtunkhwa.
+		It is part of Hazara Division and covers an area of 1,969 km2, with the city of Abbottabad being the principal town.
+		The district is named after Major James Abbott, the first deputy commissioner of Hazara.According to the Alif Ailaan Pakistan District Education Rankings 2015,
+		Abbottabad is ranked 31 out of 148 districts in terms of education. For facilities and infrastructure, the district is ranked 72 out of 148. The city is also known 
+		because of its beauty. The city was also in one of the considerations for the capital city of Pakistan.
+	Harnoi:
+		desc:
+			A very small town that is located round about 10 kms of distance from abbottabad city in the east direction. The place is regarded as the hub of tourist.
+			There is a stream of river that flows from the town and all the way through abbottabad. The river is termed as 'Kunhar River'. The place lies between abbottabad and
+			nathiagali.
+		extras:
+			Waterfall, Joy Land (for adults and teenagers), Horse Riding, Swimming and Boating.
+	Ilyasi Masjid:
+		desc:
+			One of the very old and largest mosques of abbottabad. The place is also contributing very much towards the promotion of tourism. Tourists from different 
+			parts of the country as wll as foreigners, visit the place. Behind the mosque is the small hill with walking tracks. The weather is hot in summers (daytime) but the overall
+			weather conditions are pleasant throught the year. The most important thing aboyut the mosque is that cold water flows continuously inside the mosque throughout the year.
+		extras:
+			Hotels and Restaurant accomodation, Fuel Pumps, Riwayati Potato Pakora Shops
+	Sajikot Waterfall:
+		desc:
+			Sajikot Waterfall is a waterfall located in Havelian Tehsil, Abbottabad District, in Pakistan's Khyber Pakhtunkhwa Province.
+			It is a popular tourist destination in Abbottabad District. It is about 27 kilometres from Havelian and 40 kilometres from Abbottabad District.
+			Waterfall is located around 1 hour drive from Havelian and 1.5 hr drive from Abbottabad main city. You need to hike your way down to reach the waterfall.
+		extras:
+			Hotel and Restaurant accomodation, Swimming, Canteens.
+	Thandiani:
+		desc:
+			Thandiani is a hill station in the Galyat area of Khyber Pakhtunkhwa the Province of Pakistan.
+			The place is located in the northeast of Abbottabad District and is about 37.5 kilometres (23.3 mi) from Abbottabad in the foothills of the Himalayas.
+			To the east beyond the Kunhar River lies the snow-covered Pir Panjal mountain range of Kashmir.The hills of Thandiani are about 2,750 metres (9,020 ft) above sea level and 
+			are mostly covered with snow throughout the winters.
+		extras:
+			Hotels and Restaurant accomodation, Horse Riding, Camping, Canteens. 
+	Umbrella Waterfall:
+		desc:
+			Umbrella Waterfall is a waterfall located in the Sajikot area of Abbottabad District.
+			It has recently emerged as a new tourist attraction in the KPK province of Pakistan. The waterfall is located 27 Kilometers from Havelian.
+			The Umbrella Waterfall is on the same road where the famous Sajikot Waterfall is located.
+			To reach the waterfall, you have to hike down about 30 to 45 minutes from the village of Poona.
+		extras:
+			Hotels and Restaurant accomodation, Swimming, Canteens.
+
+Bahawalpur:
+	desc:
+		The city is located in the province of punjab. 
